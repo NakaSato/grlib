@@ -1,6 +1,6 @@
 [package]
 name = "growatt"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Rust client for the Growatt API"
 authors = ["NakaSato <wit.chanthawat@gmail.com>"]

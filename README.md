@@ -14,7 +14,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-growatt = "0.1.0"
+growatt = "0.1.1"
 ```
 
 ## Quick Start
